@@ -12,26 +12,8 @@
 
     <!-- custom css -->
     <link rel="stylesheet" href="css/style.css">
-    <!-- modify this form HTML and place wherever you want your form -->
-<form
-action="https://formspree.io/f/xvoekwbz"
-method="POST"
->
-<label>
-  Your email:
-  <input type="email" name="email">
-</label>
-<label>
-  Your message:
-  <textarea name="message"></textarea>
-</label>
-<!-- your other form fields go here -->
-<button type="submit">Send</button>
-</form>
 </head>
-
 <body>
-
     <!-- header design -->
     <header class="header">
         <a href="#" class="logo">Portfolio</a>
@@ -177,7 +159,7 @@ method="POST"
     <section class="contact" id="contact">
         <h2 class="heading">Contact <span>Me</span> </h2>
 
-        <form action="#">
+        <form action="mailto:ajuwansahmir1@gmail.com" method="post" enctype="text/plain">
             <div class="input-box">
                 <input type="text" placeholder="Full Name">
                 <input type="text" placeholder="Email Addres">
@@ -186,7 +168,7 @@ method="POST"
                 <input type="number" placeholder="Mobile Number">
                 <input type="text" placeholder="Email Subject">
             </div>
-            <textarea name="" id="" cols="30" rows="10" placeholder="Your Message"></textarea>
+            <textarea name="Message" id="" cols="30" rows="10" placeholder="Your Message"></textarea>
             <input type="submit" value="Send Message" class="btn">
 
         </form>
