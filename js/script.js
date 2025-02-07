@@ -63,3 +63,19 @@ const typed = new Typed('.multiple-text', {
     loop: true
 });
 
+// Fungsi untuk membuat bintang jatuh
+function createStar() {
+    const star = document.createElement('div');
+    star.classList.add('star');
+    star.style.left = `${Math.random() * 100}vw`; // Posisi horizontal acak
+    star.style.animationDuration = `${Math.random() * 2 + 1}s`; // Kecepatan jatuh acak
+    document.querySelector('.stars').appendChild(star);
+
+    // Hapus bintang setelah selesai animasi
+    setTimeout(() => {
+        star.remove();
+    }, 3000);
+}
+
+// Buat bintang jatuh setiap 100ms
+setInterval(createStar, 100);

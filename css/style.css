@@ -26,11 +26,50 @@ html{
 body{
     background: var(--bg-color);
     color: var(--text-color);
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to bottom, #1e3c72 0%, #2a5298 100%);
+    color: white;
+    overflow: hidden;
 
 }
 section{
     min-height: 100vh;
     padding: 10rem 9% 2rem;
+}
+
+/* Container untuk bintang jatuh */
+.stars {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+/* Style untuk bintang jatuh */
+.star {
+    position: absolute;
+    top: -50px;
+    width: 2px;
+    height: 2px;
+    background: white;
+    border-radius: 50%;
+    animation: fall linear infinite;
+}
+
+/* Animasi bintang jatuh */
+@keyframes fall {
+    0% {
+        transform: translateY(0) translateX(0);
+        opacity: 1;
+    }
+    100% {
+        transform: translateY(100vh) translateX(50px);
+        opacity: 0;
+    }
 }
 
 .header {
